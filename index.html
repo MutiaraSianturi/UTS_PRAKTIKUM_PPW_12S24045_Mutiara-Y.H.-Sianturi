@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perpustakaan Mini</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Perpustakaan Mini</h1>
+        <p>Latihan HTML, CSS, dan JavaScript</p>
+    </header>
+
+    <main>
+        <section class="card">
+            <h2>Tambah Buku</h2>
+            <form id="bookForm">
+                <label for="title">Judul buku</label>
+                <input id="title" name="title" type="text" required>
+
+                <label for="author">Penulis</label>
+                <input id="author" name="author" type="text" required>
+
+                <button type="submit">Tambah</button>
+            </form>
+            <p id="message" aria-live="polite"></p>
+        </section>
+
+        <section class="card">
+            <h2>Daftar Buku</h2>
+            <ul id="bookList">
+                <li>Contoh: Belajar Basis Data — Rina</li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
