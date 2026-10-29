@@ -4,7 +4,7 @@
 
 # Laboratorium Terpadu (DEL Lab Equipment & Asset Tracking System - DEL-LEATS) 
 
-Laboratorium Rekayasa Perangkat Lunak dan Jaringan di Institut Teknologi Del mengelola ratusan aset 
+\\ Laboratorium Rekayasa Perangkat Lunak dan Jaringan di Institut Teknologi Del mengelola ratusan aset 
 perangkat teknologi berharga tinggi (seperti laptop pengujian performa tinggi, drone observasi, kit sensor 
 IoT, server mini, dan tablet digital). Selama ini, proses inventarisasi dan peminjaman perangkat 
 laboratorium oleh mahasiswa untuk keperluan tugas akhir dan riset masih dilakukan secara manual 
